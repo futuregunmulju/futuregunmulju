@@ -1,10 +1,10 @@
-# Hi, I'm Minju 👋
+## Hi, I'm Minju 👋
 
 I build AI products and experiment with agentic systems.
 
-## 🚀 Currently building
+### 🚀 Currently building
 
-### Nudge
+<b>Nudge</b>
 An AI tutor that observes how a learner solves a problem and provides small, timely hints instead of revealing the answer.
 
 Currently working on:
@@ -13,7 +13,7 @@ Currently working on:
 - real-time learning interactions
 - backend architecture
 
-## 🔭 Interested in
+### 🔭 Interested in
 
 - AI Engineering
 - Agentic AI
@@ -22,6 +22,6 @@ Currently working on:
 - Backend Systems
 - AI Infrastructure
 
-## 🛠 Tech
+### 🛠 Tech
 
 Python · PyTorch · FastAPI · LLM APIs · RAG · LangGraph · Docker
