@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Minju 👋
 
-<!--
-**futuregunmulju/futuregunmulju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI products and experiment with agentic systems.
 
-Here are some ideas to get you started:
+## 🚀 Currently building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Nudge
+An AI tutor that observes how a learner solves a problem and provides small, timely hints instead of revealing the answer.
+
+Currently working on:
+- LLM-powered feedback
+- agent-based tutoring logic
+- real-time learning interactions
+- backend architecture
+
+## 🔭 Interested in
+
+- AI Engineering
+- Agentic AI
+- LLM Applications
+- RAG & Tool-Using Agents
+- Backend Systems
+- AI Infrastructure
+
+## 🛠 Tech
+
+Python · PyTorch · FastAPI · LLM APIs · RAG · LangGraph · Docker
+
+## Elsewhere
+
+[LinkedIn](YOUR_LINKEDIN_URL) · [ORCID](YOUR_ORCID_URL)
