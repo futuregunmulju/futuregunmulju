@@ -25,7 +25,3 @@ Currently working on:
 ## 🛠 Tech
 
 Python · PyTorch · FastAPI · LLM APIs · RAG · LangGraph · Docker
-
-## Elsewhere
-
-[LinkedIn](YOUR_LINKEDIN_URL) · [ORCID](YOUR_ORCID_URL)
